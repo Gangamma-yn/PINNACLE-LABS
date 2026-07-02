@@ -6,8 +6,6 @@ SkyPulse Weather Dashboard is a modern and responsive web application that provi
 
 This project was developed as part of my Web Development Internship at Pinnacle Labs to enhance my skills in frontend development, API integration, and responsive web design.
 
----
-
 ## 🚀 Features
 
 ### Current Weather Information
@@ -39,9 +37,7 @@ This project was developed as part of my Web Development Internship at Pinnacle 
 * City Search Functionality
 * Keyboard Enter Key Support
 * Dynamic Weather Updates
-
----
-
+  
 ## 🛠️ Technologies Used
 
 ### Frontend
@@ -60,8 +56,6 @@ This project was developed as part of my Web Development Internship at Pinnacle 
 * GitHub
 * Live Server
 
----
-
 ## 📂 Project Structure
 
 SkyPulse-Weather-Dashboard/
@@ -75,8 +69,6 @@ SkyPulse-Weather-Dashboard/
 ├── README.md
 
 └── screenshot.png
-
----
 
 ## ⚙️ How to Run the Project
 
@@ -108,8 +100,6 @@ Run the project using Live Server.
 
 Search for any city to view real-time weather information.
 
----
-
 ## 📸 Project Screenshot
 
 Add a screenshot of your project and save it as:
@@ -117,8 +107,6 @@ Add a screenshot of your project and save it as:
 screenshot.png
 
 Then include it in the repository.
-
----
 
 ## 🎯 Learning Outcomes
 
@@ -133,8 +121,6 @@ Through this project, I gained practical experience in:
 * Frontend Development
 * Git and GitHub
 
----
-
 ## 💡 Future Enhancements
 
 * Dark/Light Mode Toggle
@@ -144,8 +130,6 @@ Through this project, I gained practical experience in:
 * Hourly Forecast
 * Weather Charts and Graphs
 * Multi-Language Support
-
----
 
 ## 👨‍💻 Internship Information
 
@@ -157,19 +141,10 @@ Domain: Web Development
 
 Project Type: Intermediate Level
 
----
 
-## 📧 Author
+GitHub: https://github.com/Gangamma-yn
 
-Developed by: Gangamma Y N
-
-Web Development Intern – Pinnacle Labs
-
-GitHub: Add Your GitHub Profile Link Here
-
-LinkedIn: Add Your LinkedIn Profile Link Here
-
----
+LinkedIn:  www.linkedin.com/in/gangamma-y-n-56a86634a
 
 ## ⭐ Acknowledgements
 
